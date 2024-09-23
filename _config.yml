@@ -21,15 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiangning Yu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Xiangning Yu(于湘凝)"
+  avatar           : "images/avatar.jpg"
+  bio              : "College of Intelligence and Computing, Tianjin University"
   location         : "Tianjin, China"
-  employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=m48OhycAAAAJ"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "yxn9191@tju.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Xiangning-Yu/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,8 +42,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/24/5380.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-3391-8509"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
