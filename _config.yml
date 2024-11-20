@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xiangning
-middle_name: R.
+middle_name: 
 last_name: Yu
 email: yxn9191@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Causality, Reinforcement Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -74,13 +74,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/24/5380.html # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: yxn9191# your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: https://ieeexplore.ieee.org/author/37089710901 # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
@@ -90,12 +90,12 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0009-0005-3391-8509 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Xiangning-Yu # your profile on ResearchGate
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
