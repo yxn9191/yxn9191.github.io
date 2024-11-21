@@ -78,9 +78,9 @@ dblp_url: https://dblp.org/pid/24/5380.html # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: yxn9191# your GitHub user name
+github_username: yxn9191 # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: https://ieeexplore.ieee.org/author/37089710901 # your ieeexplore.ieee.org/author/id
+ieee_id: ieeexplore.ieee.org/author/37089710901 # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id

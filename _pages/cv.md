@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 # title: cv
-# nav: true
+nav: true
 # nav_order: 5
 # cv_pdf: CV-yxn-en.pdf
 # description: Xiangning Yu's Curriculum Vitae
