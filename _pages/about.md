@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://www.tju.edu.cn/english/index.htm'>Tianjin University</a>. No.135 Yaguan Road, Haihe Education Park, Tianjin, 300350
 profile:
   align: right
   image: prof_pic.jpg
