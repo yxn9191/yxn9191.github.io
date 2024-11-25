@@ -8,6 +8,6 @@ cv_pdf: CV-yxn-en.pdf
 description: Xiangning Yu's Curriculum Vitae
 toc:
   sidebar: left
-redirect_to:
-  - assets/pdf/CV-yxn-en.pdf
+# redirect_to:
+#   - assets/pdf/CV-yxn-en.pdf
 ---
